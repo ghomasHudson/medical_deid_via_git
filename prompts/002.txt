@@ -1,0 +1,11 @@
+We are now creating a training set to train an anonymization model. Since we are not able to share patient data, we need to generate (raw text, anonymized data) pairs.
+
+You have already generated the first few hundred examples. But there's a few problems: We need to train the model to anonymize a set of information, therefore we need the training set to contain them. Now for the first couple hundreds of data you generated, there isn't a lot of
+1. online identifiers (such as social media usernames and ids)
+2. workplace/company/educational institution name
+3. company address, workplace address.
+4. Practice names.
+5. And there can be more local patient identifiers and unique booking reference numbers.
+6. The medical complaints were too similar! Make them varied
+
+The ones you generated were like: """{example_text}"""

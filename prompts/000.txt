@@ -1,0 +1,4 @@
+We are now creating a training set to train an anonymization model. Since we are not able to share patient data, we need to generate (raw text, anonymized data) pairs.
+
+Please make sure the generated data is diverse in struction, information, and expressions.
+We are first generating the raw text. Consider text that users would say when using an app to communicate to their GPs.

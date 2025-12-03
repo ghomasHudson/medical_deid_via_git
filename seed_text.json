@@ -1,0 +1,154 @@
+[
+{
+  "plain": "Mark had a lung infection not long ago and I think it is back as he is coughing lots.",
+  "anonymized": "[name] had a lung infection not long ago and I think it is back as he is coughing lots."
+},
+{
+  "plain": "Donna from the care home called re district nurses taking the catheter out. Can you call back on 07395210468. Thanks.",
+  "anonymized": "[name] from the care home called re district nurses taking the catheter out. Can you call back on [tel]. Thanks."
+},
+{
+  "plain": "need to order ariprazole medication for Mr Jones dob 10/02/1975. please send to pharmacy Boots, Birmingham thankyou",
+  "anonymized": "need to order ariprazole medication for [name] dob [dob]. please send to pharmacy [pharmacy] thankyou"
+},
+{
+  "plain": "Hi, got an email to say i need to get my flu jab. any afternoon or weekend. Also book my husband Martin dob 12/03/1970",
+  "anonymized": "Hi, got an email to say i need to get my flu jab. any afternoon or weekend. Also book my husband [name] dob [dob]"
+},
+{
+    "plain": "I need help with sleep",
+    "anonymized": "I need help with sleep"
+},
+{
+    "plain": "Hey, could I get an appointment please? I keep getting headaches. NHS no. 485 777 3456",
+    "anonymized": "Hey, could I get an appointment please? I keep getting headaches. NHS no. [nhs_num]"
+},
+{
+    "plain": "FAO Dr Williams. Hi Peter, going to South Africa for my birthday. think I will need a Hep A jab??",
+    "anonymized": "FAO Dr [name]. Hi [name], going to South Africa for my birthday. think I will need a Hep A jab??"
+},
+{
+    "plain": "My consultant at Church Lane asked me to get in touch. Could Dr Stanley call me back? Thanks",
+    "anonymized": "My consultant at [practice] asked me to get in touch. Could Dr [name] call me back? Thanks"
+},
+  {
+    "plain": "Hi, Chloe Walker here. My ankle swelling has come back again since yesterday.",
+    "anonymized": "Hi, [name] here. My ankle swelling has come back again since yesterday."
+  },
+  {
+    "plain": "Morning, can you resend my repeat for levothyroxine please. It usually goes to Wellbeing Pharmacy, Manchester.",
+    "anonymized": "Morning, can you resend my repeat for levothyroxine please. It usually goes to [pharmacy], [address]."
+  },
+  {
+    "plain": "Mum is feeling very dizzy today. Her name is Barbara Jones and she lives at 24 Kingston Close.",
+    "anonymized": "Mum is feeling very dizzy today. Her name is [name] and she lives at [address]."
+  },
+  {
+    "plain": "Can you check my blood test results for Michael dob 04/11/1962. He is worried about his iron levels.",
+    "anonymized": "Can you check my blood test results for [name] dob [dob]. He is worried about his iron levels."
+  },
+  {
+    "plain": "Please ring me back on 07711 289543 about my son's rash. This is Sarah Patel.",
+    "anonymized": "Please ring me back on [tel] about my son's rash. This is [name]."
+  },
+  {
+    "plain": "Hi. I think I might have a chest infection. Really wheezy today.",
+    "anonymized": "Hi. I think I might have a chest infection. Really wheezy today."
+  },
+  {
+    "plain": "My physio at Riverside Clinic said I need a referral for an MRI. Can a GP arrange this?",
+    "anonymized": "My physio at [practice] said I need a referral for an MRI. Can a GP arrange this?"
+  },
+  {
+    "plain": "Need to update my details. I moved from 15 Brook Street to 88 Longside Crescent.",
+    "anonymized": "Need to update my details. I moved from [address] to [address]."
+  },
+  {
+    "plain": "Hi, this is to book travel jabs for me and my daughter Emma who is 14.",
+    "anonymized": "Hi, this is to book travel jabs for me and my daughter [name] who is 14."
+  },
+  {
+    "plain": "Can you check if my prescription for sertraline has been issued? Usually under Andrew Green.",
+    "anonymized": "Can you check if my prescription for sertraline has been issued? Usually under [name]."
+  },
+  {
+    "plain": "Hi, I want to restart the pill. I used to be on Microgynon. Can I get a prescription?",
+    "anonymized": "Hi, I want to restart the pill. I used to be on Microgynon. Can I get a prescription?"
+  },
+  {
+    "plain": "Could you advise if I can switch contraception? Yasmin is giving me headaches.",
+    "anonymized": "Could you advise if I can switch contraception? Yasmin is giving me headaches."
+  },
+  {
+    "plain": "My cough has lasted over three weeks and is keeping me up at night. This is John Peters.",
+    "anonymized": "My cough has lasted over three weeks and is keeping me up at night. This is [name]."
+  },
+  {
+    "plain": "Still coughing a lot and bringing up green mucus. Can I get checked?",
+    "anonymized": "Still coughing a lot and bringing up green mucus. Can I get checked?"
+  },
+  {
+    "plain": "Asthma flare since Saturday. Using my blue inhaler more than usual. I am Alice Murphy.",
+    "anonymized": "Asthma flare since Saturday. Using my blue inhaler more than usual. I am [name]."
+  },
+  {
+    "plain": "Need a review of my preventer inhaler please. My chest feels tight during exercise.",
+    "anonymized": "Need a review of my preventer inhaler please. My chest feels tight during exercise."
+  },
+  {
+    "plain": "Feeling very low this month and struggling to sleep. Can I talk to a GP?",
+    "anonymized": "Feeling very low this month and struggling to sleep. Can I talk to a GP?"
+  },
+  {
+    "plain": "I stopped my sertraline and feel worse again. My name is Helen Wright.",
+    "anonymized": "I stopped my sertraline and feel worse again. My name is [name]."
+  },
+  {
+    "plain": "Hi, painful urination since last night. Could be a UTI. Can I get antibiotics?",
+    "anonymized": "Hi, painful urination since last night. Could be a UTI. Can I get antibiotics?"
+  },
+  {
+    "plain": "This is for my wife Mary Clarke. She has back pain and also urinary frequency.",
+    "anonymized": "This is for my wife [name]. She has back pain and also urinary frequency."
+  },
+  {
+    "plain": "Rash on my arms spreading quickly. Very itchy. Can someone review it?",
+    "anonymized": "Rash on my arms spreading quickly. Very itchy. Can someone review it?"
+  },
+  {
+    "plain": "Eczema flare again. Need more cream please. Usually under Daniel Fox.",
+    "anonymized": "Eczema flare again. Need more cream please. Usually under [name]."
+  },
+    {
+    "plain": "hey can i swap my pill cos this one makin me feel weird",
+    "anonymized": "hey can i swap my pill cos this one makin me feel weird"
+  },
+  {
+    "plain": "still got this cough ages now. keeps me up. its me, karen hill.",
+    "anonymized": "still got this cough ages now. keeps me up. its me, [name]."
+  },
+    {
+    "plain": "my partner kevin thomas peein loads n hurts him. can u ring back",
+    "anonymized": "my partner [name] peein loads n hurts him. can u ring back"
+  },
+  {
+    "plain": "skin on my arm goin all red n bumpy. itchy like mad",
+    "anonymized": "skin on my arm goin all red n bumpy. itchy like mad"
+  },
+  {
+    "plain": "eczema kickin off again. need more cream. its under melissa johns",
+    "anonymized": "eczema kickin off again. need more cream. its under [name]"
+  },
+  {
+    "plain": "Hi, my name is Sage Garcia. I was prescribed Amoxicillin last week for a bacterial infection, and I've started noticing a rash developing on my arms and legs. I'm concerned about an allergic reaction. My address is 987 Elm St, Seattle, WA, and my date of birth is 11/11/1986. What should I do?",
+    "anonymized": "Hi, my name is [name]. I was prescribed Amoxicillin last week for a bacterial infection, and I've started noticing a rash developing on my arms and legs. I'm concerned about an allergic reaction. My address is 987 Elm St, Seattle, WA, and my date of birth is [dob]. What should I do?"
+  },
+  {
+    "plain": "I'm Drew Harris, and I have been managing Type 2 Diabetes for the past 5 years. I've recently moved to a new city, address is 654 Maple Rd, Austin, TX. My previous GP, Dr. Alex Kim, had me on a specific diet and medication plan that worked well. I'd like to discuss this with you. My contact is (555) 321-0987.",
+    "anonymized": "I'm [name], and I have been managing Type 2 Diabetes for the past 5 years. I've recently moved to a new city, address is [address]. My previous GP, Dr. [name], had me on a specific diet and medication plan that worked well. I'd like to discuss this with you. My contact is [tel]."
+  },
+  {
+    "plain": "hi my back still hurts. James Smith, 119 Aberdeen Road lancs",
+    "anonymized": "hi my back still hurts. [name], [address]"
+}
+]

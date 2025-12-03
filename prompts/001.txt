@@ -1,0 +1,7 @@
+We are now creating a training set to train an anonymization model. Since we are not able to share patient data, we need to generate (raw text, anonymized data) pairs.
+
+You have already generated the first few hundred raw text. But there's a few problems: 
+
+The data you generated were highly templated. For example, they always start with name, followed by description of the situation, then followed by other information in similar orders. This could lead to the trained model overfit to some specific formats. Note that users can talk in random format and provide the information in different orders. For example, their might be just one sentence to describe the situation. Or they can first provide the reference, then situation. 
+
+The ones you generated were like: """{example_text}"""
