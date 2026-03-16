@@ -1,0 +1,402 @@
+[
+    {
+        "raw_text": "Bonjour, je m'appelle Camille Durand et je suis née le 15/04/1985. Je voudrais prendre rendez-vous pour une douleur au dos.",
+        "anonymized_text": "Bonjour, je m'appelle [name] et je suis née le [dob]. Je voudrais prendre rendez-vous pour une douleur au dos."
+    },
+    {
+        "raw_text": "Envoyez l'ordonnance à la Pharmacie du Soleil, 12 rue de la Paix, Paris.",
+        "anonymized_text": "Envoyez l'ordonnance à la [pharmacy], 12 rue de la Paix, Paris."
+    },
+    {
+        "raw_text": "Je vis actuellement au 12 Rue de la République, 69002 Lyon. Pouvez-vous mettre à jour mon dossier ?",
+        "anonymized_text": "Je vis actuellement au [address]. Pouvez-vous mettre à jour mon dossier ?"
+    },
+    {
+        "raw_text": "Merci de contacter mon médecin traitant, le Dr. Martin au Centre Médical Pasteur.",
+        "anonymized_text": "Merci de contacter mon médecin traitant, le [practice] au [hospital]."
+    },
+    {
+        "raw_text": "Je suis joignable au 06 12 34 56 78 si vous avez besoin de plus d'informations.",
+        "anonymized_text": "Je suis joignable au [tel] si vous avez besoin de plus d'informations."
+    },
+    {
+        "raw_text": "Mon adresse email est lucas.moreau@orange.fr. Merci de m'envoyer l'ordonnance par mail.",
+        "anonymized_text": "Mon adresse email est [email]. Merci de m'envoyer l'ordonnance par mail."
+    },
+    {
+        "raw_text": "Je récupère mes médicaments à la Pharmacie Centrale, place du Marché.",
+        "anonymized_text": "Je récupère mes médicaments à la [pharmacy], place du Marché."
+    },
+    {
+        "raw_text": "La Pharmacie des Alpes n'avait pas mon traitement en stock.",
+        "anonymized_text": "La [pharmacy] n'avait pas mon traitement en stock."
+    },
+    {
+        "raw_text": "Je m'appelle Mohamed Benali, né le 12 mars 1978. J'ai une éruption cutanée bizarre.",
+        "anonymized_text": "Je m'appelle [name], né le [dob]. J'ai une éruption cutanée bizarre."
+    },
+    {
+        "raw_text": "Mon identifiant Instagram est @sophie_fit_88, je vous ai envoyé une photo de ma blessure là-bas par erreur.",
+        "anonymized_text": "Mon identifiant Instagram est [social], je vous ai envoyé une photo de ma blessure là-bas par erreur."
+    },
+    {
+        "raw_text": "Pouvez-vous envoyer l'ordonnance à la Pharmacie Lafayette, 8 boulevard Haussmann ?",
+        "anonymized_text": "Pouvez-vous envoyer l'ordonnance à la [pharmacy], 8 boulevard Haussmann ?"
+    },
+    {
+        "raw_text": "Je suis inscrit à la Pharmacie de la Gare. Téléphone : 01 23 45 67 89.",
+        "anonymized_text": "Je suis inscrit à la [pharmacy]. Téléphone : [tel]."
+    },
+    {
+        "raw_text": "Je suis suivi à l'Hôpital Necker pour mon diabète.",
+        "anonymized_text": "Je suis suivi à [hospital] pour mon diabète."
+    },
+    {
+        "raw_text": "Bonjour, c'est pour mon fils Théo Petit, né le 01/02/2015. Il a beaucoup de fièvre.",
+        "anonymized_text": "Bonjour, c'est pour mon fils [name], né le [dob]. Il a beaucoup de fièvre."
+    },
+    {
+        "raw_text": "Ma pharmacie habituelle est la Pharmacie du Parc, avenue Victor Hugo, Lyon.",
+        "anonymized_text": "Ma pharmacie habituelle est la [pharmacy], avenue Victor Hugo, Lyon."
+    },
+    {
+        "raw_text": "J'habitais avant au 5 Impasse des Lilas, mais j'ai déménagé.",
+        "anonymized_text": "J'habitais avant au [address], mais j'ai déménagé."
+    },
+    {
+        "raw_text": "Vous pouvez appeler ma femme au 07.89.10.11.12 en cas d'urgence.",
+        "anonymized_text": "Vous pouvez appeler ma femme au [tel] en cas d'urgence."
+    },
+    {
+        "raw_text": "Envoyez le renouvellement à la Pharmacie Saint-Michel s'il vous plaît.",
+        "anonymized_text": "Envoyez le renouvellement à la [pharmacy] s'il vous plaît."
+    },
+    {
+        "raw_text": "Je vais toujours à la Grande Pharmacie de Marseille pour mes ordonnances.",
+        "anonymized_text": "Je vais toujours à la [pharmacy] pour mes ordonnances."
+    },
+    {
+        "raw_text": "Contactez-moi sur discord, mon pseudo est GamerPro#1234, je ne réponds pas au téléphone.",
+        "anonymized_text": "Contactez-moi sur discord, mon pseudo est [social], je ne réponds pas au téléphone."
+    },
+    {
+        "raw_text": "Docteur, je suis Monsieur Bernard, je viens de la Clinique du Parc.",
+        "anonymized_text": "Docteur, je suis [name], je viens de la [hospital]."
+    },
+    {
+        "raw_text": "Mon adresse est 22 Avenue du Général Leclerc, Bâtiment B, 33000 Bordeaux.",
+        "anonymized_text": "Mon adresse est [address]."
+    },
+    {
+        "raw_text": "Email: julie.faure@gmail.com. Date de naissance: 22/11/1990.",
+        "anonymized_text": "Email: [email]. Date de naissance: [dob]."
+    },
+    {
+        "raw_text": "Mon numéro de patient est P-2024-78432.",
+        "anonymized_text": "Mon numéro de patient est [patient_id]."
+    },
+    {
+        "raw_text": "Voici la référence de mon dossier : ID 99887766. Je suis Chloé Martin.",
+        "anonymized_text": "Voici la référence de mon dossier : ID 99887766. Je suis [name]."
+    },
+    {
+        "raw_text": "J'ai perdu mon ordonnance du Dr. Rousseau.",
+        "anonymized_text": "J'ai perdu mon ordonnance du [practice]."
+    },
+    {
+        "raw_text": "Mon numéro fixe est le 01 45 67 89 00.",
+        "anonymized_text": "Mon numéro fixe est le [tel]."
+    },
+    {
+        "raw_text": "Je suis né le 14 juillet 1960 et je m'appelle François Pignon.",
+        "anonymized_text": "Je suis né le [dob] et je m'appelle [name]."
+    },
+    {
+        "raw_text": "Je m'appelle Claire Dupont, numéro de dossier médical : DM-445566.",
+        "anonymized_text": "Je m'appelle [name], numéro de dossier médical : [patient_id]."
+    },
+    {
+        "raw_text": "Je vis à Marseille, 13008, au 14 Boulevard Périer.",
+        "anonymized_text": "Je vis à [address]."
+    },
+    {
+        "raw_text": "Référence patient : REF-99001. Merci de mettre à jour mon adresse.",
+        "anonymized_text": "Référence patient : [patient_id]. Merci de mettre à jour mon adresse."
+    },
+    {
+        "raw_text": "Mon compte Twitter est @ActuSante, je vous ai DM.",
+        "anonymized_text": "Mon compte Twitter est [social], je vous ai DM."
+    },
+    {
+        "raw_text": "Mon identifiant patient au cabinet est ID-33217.",
+        "anonymized_text": "Mon identifiant patient au cabinet est [patient_id]."
+    },
+    {
+        "raw_text": "Bonjour, je suis Léa, née en 2001. J'ai mal à la gorge.",
+        "anonymized_text": "Bonjour, je suis [name], née en [dob]. J'ai mal à la gorge."
+    },
+    {
+        "raw_text": "Adresse de facturation : 10 Rue des Fleurs, 44000 Nantes.",
+        "anonymized_text": "Adresse de facturation : [address]."
+    },
+    {
+        "raw_text": "Numéro de dossier : 2024-MED-0087. Née le 14/07/1990.",
+        "anonymized_text": "Numéro de dossier : [patient_id]. Née le [dob]."
+    },
+    {
+        "raw_text": "Mon médecin est le Docteur Dubreuil à Lille.",
+        "anonymized_text": "Mon médecin est le [practice] à [practice]."
+    },
+    {
+        "raw_text": "Tél : +33 6 00 11 22 33.",
+        "anonymized_text": "Tél : [tel]."
+    },
+    {
+        "raw_text": "Bonjour, je suis le patient numéro PAT-112233 au centre médical.",
+        "anonymized_text": "Bonjour, je suis le patient numéro [patient_id] au centre médical."
+    },
+    {
+        "raw_text": "Je m'appelle Hélène Mercier, 54 ans.",
+        "anonymized_text": "Je m'appelle [name], 54 ans."
+    },
+    {
+        "raw_text": "Mon numéro de dossier est DMR-7890, pouvez-vous vérifier mes résultats ?",
+        "anonymized_text": "Mon numéro de dossier est [patient_id], pouvez-vous vérifier mes résultats ?"
+    },
+    {
+        "raw_text": "Identifiant patient : MED-2025-443. Je souhaite prendre rendez-vous.",
+        "anonymized_text": "Identifiant patient : [patient_id]. Je souhaite prendre rendez-vous."
+    },
+    {
+        "raw_text": "Envoyez la facture à pierre.richard@hotmail.fr.",
+        "anonymized_text": "Envoyez la facture à [email]."
+    },
+    {
+        "raw_text": "Je suis au CHU de Grenoble en chambre 12.",
+        "anonymized_text": "Je suis au [hospital] en chambre 12."
+    },
+    {
+        "raw_text": "Mon adresse : Lieu-dit Les Granges, 24200 Sarlat.",
+        "anonymized_text": "Mon adresse : [address]."
+    },
+    {
+        "raw_text": "Je suis né le 30/09/1995. Antoine Griezmann (homonyme !).",
+        "anonymized_text": "Je suis né le [dob]. [name] (homonyme !)."
+    },
+    {
+        "raw_text": "Numéro CAF : 1234567. C'est pour le dossier MDPH.",
+        "anonymized_text": "Numéro CAF : 1234567. C'est pour le dossier MDPH."
+    },
+    {
+        "raw_text": "Mon numéro de sécurité sociale (1 88 01 99 123 456) ne passe pas sur la borne.",
+        "anonymized_text": "Mon numéro de sécurité sociale (1 88 01 99 123 456) ne passe pas sur la borne."
+    },
+    {
+        "raw_text": "Je travaille chez BNP Paribas, 16 Boulevard des Italiens.",
+        "anonymized_text": "Je travaille chez BNP Paribas, 16 Boulevard des Italiens."
+    },
+    {
+        "raw_text": "Mon pseudo Skype est live:jean.dupont.",
+        "anonymized_text": "Mon pseudo Skype est [social]."
+    },
+    {
+        "raw_text": "Ma mère, Mme.vette Horner, a besoin d'aide. Elle est née en 1940.",
+        "anonymized_text": "Ma mère, [name], a besoin d'aide. Elle est née en [dob]."
+    },
+    {
+        "raw_text": "Carte d'identité : 987654321000. Délivrée par la préfecture du Rhône.",
+        "anonymized_text": "Carte d'identité : 987654321000. Délivrée par la préfecture du Rhône."
+    },
+    {
+        "raw_text": "Je réside au 77 Rue de Vaugirard, Paris 15ème.",
+        "anonymized_text": "Je réside au [address]."
+    },
+    {
+        "raw_text": "Téléphonez-moi au 04 67 12 34 56 entre 12h et 14h.",
+        "anonymized_text": "Téléphonez-moi au [tel] entre 12h et 14h."
+    },
+    {
+        "raw_text": "Je suis soigné par le Dr. House à l'Hôpital Américain.",
+        "anonymized_text": "Je suis soigné par le [practice] à l'[hospital]."
+    },
+    {
+        "raw_text": "Mon mail pro : valerie.damidot@m6.fr.",
+        "anonymized_text": "Mon mail pro : [email]."
+    },
+    {
+        "raw_text": "Passeport : 88GB12345.",
+        "anonymized_text": "Passeport : 88GB12345."
+    },
+    {
+        "raw_text": "Je suis charpentier à mon compte.",
+        "anonymized_text": "Je suis charpentier à mon compte."
+    },
+    {
+        "raw_text": "Mon adresse précédente était 1 Place du Capitole, Toulouse.",
+        "anonymized_text": "Mon adresse précédente était [address]."
+    },
+    {
+        "raw_text": "Bonjour, ici Claire Chazal, née le 01/12/1956.",
+        "anonymized_text": "Bonjour, ici [name], née le [dob]."
+    },
+    {
+        "raw_text": "Je suis assuré sous le numéro 2 92 03 78 456 789 01.",
+        "anonymized_text": "Je suis assuré sous le numéro 2 92 03 78 456 789 01."
+    },
+    {
+        "raw_text": "Page Facebook : facebook.com/michel.polnareff.",
+        "anonymized_text": "Page Facebook : [social]."
+    },
+    {
+        "raw_text": "Permis de conduire : 112233445566. J'en ai besoin pour l'ambulance.",
+        "anonymized_text": "Permis de conduire : 112233445566. J'en ai besoin pour l'ambulance."
+    },
+    {
+        "raw_text": "Cabinet Médical des Tilleuls, 3 Rue de la Gare.",
+        "anonymized_text": "[hospital], 3 Rue de la Gare."
+    },
+    {
+        "raw_text": "Je m'appelle Nicolas Sarkozy, je vis au 55 Rue du Faubourg Saint-Honoré.",
+        "anonymized_text": "Je m'appelle [name], je vis au [address]."
+    },
+    {
+        "raw_text": "Mon entreprise est TotalEnergies à La Défense.",
+        "anonymized_text": "Mon entreprise est TotalEnergies à La Défense."
+    },
+    {
+        "raw_text": "Contact : +33 7 89 56 23 14.",
+        "anonymized_text": "Contact : [tel]."
+    },
+    {
+        "raw_text": "Numéro étranger (NHS) : 123 456 7890 (Je suis expatrié).",
+        "anonymized_text": "Numéro étranger (NHS) : 123 456 7890 (Je suis expatrié)."
+    },
+    {
+        "raw_text": "Email : contact@maison-du-monde.com.",
+        "anonymized_text": "Email : [email]."
+    },
+    {
+        "raw_text": "Je suis né le vingt janvier 1999.",
+        "anonymized_text": "Je suis né le [dob]."
+    },
+    {
+        "raw_text": "Mon CNI est périmé : 123456789123.",
+        "anonymized_text": "Mon CNI est périmé : 123456789123."
+    },
+    {
+        "raw_text": "Je suis architecte chez Renzo Piano Workshop.",
+        "anonymized_text": "Je suis architecte chez Renzo Piano Workshop."
+    },
+    {
+        "raw_text": "Allez voir le Dr. Cymes, il est très bien.",
+        "anonymized_text": "Allez voir le [practice], il est très bien."
+    },
+    {
+        "raw_text": "Je vis Résidence les Bleuets, Apt 45, 14000 Caen.",
+        "anonymized_text": "Je vis [address]."
+    },
+    {
+        "raw_text": "Snapchat : kylie_jenner_du_93.",
+        "anonymized_text": "Snapchat : [social]."
+    },
+    {
+        "raw_text": "Je m'appelle Arthur Vandelay, import-export.",
+        "anonymized_text": "Je m'appelle [name], import-export."
+    },
+    {
+        "raw_text": "Né le 05.05.1955.",
+        "anonymized_text": "Né le [dob]."
+    },
+    {
+        "raw_text": "Numéro de sécu complet : 1 55 05 75 056 056 22.",
+        "anonymized_text": "Numéro de sécu complet : 1 55 05 75 056 056 22."
+    },
+    {
+        "raw_text": "Je travaille à la Mairie de Bordeaux, Place Pey Berland.",
+        "anonymized_text": "Je travaille à la Mairie de Bordeaux, Place Pey Berland."
+    },
+    {
+        "raw_text": "Mobile : 06-11-22-33-44.",
+        "anonymized_text": "Mobile : [tel]."
+    },
+    {
+        "raw_text": "Passeport : 99AA001122.",
+        "anonymized_text": "Passeport : 99AA001122."
+    },
+    {
+        "raw_text": "Je suis Mme. Dupont-Moretti.",
+        "anonymized_text": "Je suis [name]."
+    },
+    {
+        "raw_text": "Docteur : SOS Médecins Paris.",
+        "anonymized_text": "Docteur : [hospital]."
+    },
+    {
+        "raw_text": "J'habite 3 Allée des Cygnes.",
+        "anonymized_text": "J'habite [address]."
+    },
+    {
+        "raw_text": "Adresse mail : admin@start-up.io.",
+        "anonymized_text": "Adresse mail : [email]."
+    },
+    {
+        "raw_text": "Identifiant Pôle Emploi : 1234567A.",
+        "anonymized_text": "Identifiant Pôle Emploi : 1234567A."
+    },
+    {
+        "raw_text": "Je suis livreur Uber Eats.",
+        "anonymized_text": "Je suis livreur Uber Eats."
+    },
+    {
+        "raw_text": "Permis B numéro 123456789.",
+        "anonymized_text": "Permis B numéro 123456789."
+    },
+    {
+        "raw_text": "Né le 1er avril 2000.",
+        "anonymized_text": "Né le [dob]."
+    },
+    {
+        "raw_text": "Clinique Saint-Jean, 100 Avenue de la Californie, Nice.",
+        "anonymized_text": "[hospital], 100 Avenue de la Californie, Nice."
+    },
+    {
+        "raw_text": "Mon TikTok est @docteur_tiktok.",
+        "anonymized_text": "Mon TikTok est [social]."
+    },
+    {
+        "raw_text": "Sécurité sociale : 2 80 12 99 234 123 45.",
+        "anonymized_text": "Sécurité sociale : 2 80 12 99 234 123 45."
+    },
+    {
+        "raw_text": "Je m'appelle Zinedine Zidane.",
+        "anonymized_text": "Je m'appelle [name]."
+    },
+    {
+        "raw_text": "Adresse : BP 5002, 59000 Lille.",
+        "anonymized_text": "Adresse : [address]."
+    },
+    {
+        "raw_text": "Tél pro : 01 23 45 67 89.",
+        "anonymized_text": "Tél pro : [tel]."
+    },
+    {
+        "raw_text": "Je travaille pour L'Oréal.",
+        "anonymized_text": "Je travaille pour L'Oréal."
+    },
+    {
+        "raw_text": "Mail : test.123@yahoo.fr.",
+        "anonymized_text": "Mail : [email]."
+    },
+    {
+        "raw_text": "Carte Nationale d'Identité : 000000111111.",
+        "anonymized_text": "Carte Nationale d'Identité : 000000111111."
+    },
+    {
+        "raw_text": "Je suis né le 11/09/2001.",
+        "anonymized_text": "Je suis né le [dob]."
+    },
+    {
+        "raw_text": "Mon généraliste est à la Maison de Santé de Créteil.",
+        "anonymized_text": "Mon généraliste est à la [hospital]."
+    }
+]

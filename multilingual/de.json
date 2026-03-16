@@ -1,0 +1,402 @@
+[
+    {
+        "raw_text": "Hallo, ich heiße Sabine Müller und ich habe seit gestern starke Kopfschmerzen. Mein Geburtsdatum ist der 12.04.1985.",
+        "anonymized_text": "Hallo, ich heiße [name] und ich habe seit gestern starke Kopfschmerzen. Mein Geburtsdatum ist der [dob]."
+    },
+    {
+        "raw_text": "Bitte aktualisieren Sie meine Adresse. Ich wohne jetzt in der Hauptstraße 5, 10115 Berlin.",
+        "anonymized_text": "Bitte aktualisieren Sie meine Adresse. Ich wohne jetzt in der [address]."
+    },
+    {
+        "raw_text": "Guten Tag, hier ist Markus Weber. Meine Versichertennummer lautet A123456789.",
+        "anonymized_text": "Guten Tag, hier ist [name]. Meine Versichertennummer lautet [patient_id]."
+    },
+    {
+        "raw_text": "Ich brauche einen Termin bei Dr. Klein. Sie erreichen mich unter 0171 1234567.",
+        "anonymized_text": "Ich brauche einen Termin bei [practice]. Sie erreichen mich unter [tel]."
+    },
+    {
+        "raw_text": "Meine E-Mail-Adresse hat sich geändert: hans.schmidt@web.de.",
+        "anonymized_text": "Meine E-Mail-Adresse hat sich geändert: [email]."
+    },
+    {
+        "raw_text": "Könnten Sie das Rezept an meine alte Adresse in der Goethestraße 12, München schicken?",
+        "anonymized_text": "Könnten Sie das Rezept an meine alte Adresse in der [address] schicken?"
+    },
+    {
+        "raw_text": "Hi, ich bin Julia und arbeite als Krankenschwester bei der Charité. Ich fühle mich heute nicht gut.",
+        "anonymized_text": "Hi, ich bin [name] und arbeite als Krankenschwester bei der [hospital]. Ich fühle mich heute nicht gut."
+    },
+    {
+        "raw_text": "Bitte senden Sie das Rezept an die Sonnen-Apotheke in der Hauptstraße 12, Berlin.",
+        "anonymized_text": "Bitte senden Sie das Rezept an die [pharmacy] in der Hauptstraße 12, Berlin."
+    },
+    {
+        "raw_text": "Mein Name ist Friedrich Becker, geb. 01.01.1960. Ich habe Schmerzen in der Brust.",
+        "anonymized_text": "Mein Name ist [name], geb. [dob]. Ich habe Schmerzen in der Brust."
+    },
+    {
+        "raw_text": "Ich bin bei der Allianz versichert und meine Nummer ist K987654321. Danke.",
+        "anonymized_text": "Ich bin bei der Allianz versichert und meine Nummer ist [patient_id]. Danke."
+    },
+    {
+        "raw_text": "Bitte rufen Sie mich zurück. Nummer: +49 30 9876543.",
+        "anonymized_text": "Bitte rufen Sie mich zurück. Nummer: [tel]."
+    },
+    {
+        "raw_text": "Ich hole meine Medikamente immer bei der Adler-Apotheke am Marktplatz ab.",
+        "anonymized_text": "Ich hole meine Medikamente immer bei der [pharmacy] ab."
+    },
+    {
+        "raw_text": "Hey, mein Gamer-Tag ist Slayer99 auf Steam, falls das für die Suchtberatung relevant ist.",
+        "anonymized_text": "Hey, mein Gamer-Tag ist [social] auf Steam, falls das für die Suchtberatung relevant ist."
+    },
+    {
+        "raw_text": "Die Engel-Apotheke in München hat mein Rezept nicht vorrätig.",
+        "anonymized_text": "Die [pharmacy] hat mein Rezept nicht vorrätig."
+    },
+    {
+        "raw_text": "Können Sie das Rezept direkt an die Linden-Apotheke, Goethestraße 5, Stuttgart schicken?",
+        "anonymized_text": "Können Sie das Rezept direkt an die [pharmacy], Goethestraße 5, Stuttgart schicken?"
+    },
+    {
+        "raw_text": "Sehr geehrte Damen und Herren, mein Name ist Dr. Angela Richter. Ich bin selbst Ärztin.",
+        "anonymized_text": "Sehr geehrte Damen und Herren, mein Name ist [name]. Ich bin selbst Ärztin."
+    },
+    {
+        "raw_text": "Können Sie meine Daten löschen? Name: Tim Bergmann, E-Mail: t.bergmann@gmx.net.",
+        "anonymized_text": "Können Sie meine Daten löschen? Name: [name], E-Mail: [email]."
+    },
+    {
+        "raw_text": "Ich war früher Patient im Universitätsklinikum Hamburg-Eppendorf.",
+        "anonymized_text": "Ich war früher Patient im [hospital]."
+    },
+    {
+        "raw_text": "Meine Adresse ist Am Wasserturm 4a, 20257 Hamburg.",
+        "anonymized_text": "Meine Adresse ist [address]."
+    },
+    {
+        "raw_text": "Hallo Doc, hier ist Kevin. Geboren am 24.12.2000.",
+        "anonymized_text": "Hallo Doc, hier ist [name]. Geboren am [dob]."
+    },
+    {
+        "raw_text": "Mein Name ist Thomas Braun, geboren am 15.03.1978. Meine Apotheke ist die Rosen-Apotheke.",
+        "anonymized_text": "Mein Name ist [name], geboren am [dob]. Meine Apotheke ist die [pharmacy]."
+    },
+    {
+        "raw_text": "Meine KV-Nummer ist J849302847.",
+        "anonymized_text": "Meine KV-Nummer ist [patient_id]."
+    },
+    {
+        "raw_text": "Kontaktieren Sie mich über Instagram: @fitness_anna.",
+        "anonymized_text": "Kontaktieren Sie mich über Instagram: [social]."
+    },
+    {
+        "raw_text": "Ich wohne nicht mehr in Köln. Neue Anschrift: Rheinallee 45, 53173 Bonn.",
+        "anonymized_text": "Ich wohne nicht mehr in Köln. Neue Anschrift: [address]."
+    },
+    {
+        "raw_text": "Mein Hausarzt ist Herr Dr. med. Schneider in der Bahnhofstraße 10.",
+        "anonymized_text": "Mein Hausarzt ist [practice] in der [practice]."
+    },
+    {
+        "raw_text": "Telefonnummer für Rückfragen: 040-11223344.",
+        "anonymized_text": "Telefonnummer für Rückfragen: [tel]."
+    },
+    {
+        "raw_text": "Mein Name ist Katharina von Bora, 29.01.1499 (Scherz, eigentlich 1990).",
+        "anonymized_text": "Mein Name ist [name], [dob] (Scherz, eigentlich 1990)."
+    },
+    {
+        "raw_text": "Ich bin bei der Schloss-Apotheke registriert. Telefon: 0221 4455667.",
+        "anonymized_text": "Ich bin bei der [pharmacy] registriert. Telefon: [tel]."
+    },
+    {
+        "raw_text": "Bitte das Rezept an die Stadt-Apotheke weiterleiten, nicht an die alte Adresse.",
+        "anonymized_text": "Bitte das Rezept an die [pharmacy] weiterleiten, nicht an die alte Adresse."
+    },
+    {
+        "raw_text": "Ich heiße Michael und meine Reisepassnummer ist C01X00T47.",
+        "anonymized_text": "Ich heiße [name] und meine Reisepassnummer ist C01X00T47."
+    },
+    {
+        "raw_text": "Brauche dringend Hilfe. Tel: 0160 99887766.",
+        "anonymized_text": "Brauche dringend Hilfe. Tel: [tel]."
+    },
+    {
+        "raw_text": "Meine Stamm-Apotheke ist die Löwen-Apotheke in der Friedrichstraße, Köln.",
+        "anonymized_text": "Meine Stamm-Apotheke ist die [pharmacy] in der Friedrichstraße, Köln."
+    },
+    {
+        "raw_text": "Meine alte Adresse war: Sonnenweg 3, 01099 Dresden.",
+        "anonymized_text": "Meine alte Adresse war: [address]."
+    },
+    {
+        "raw_text": "Hallo, hier ist Stefanie Graf (nicht die Tennisspielerin). Geb. 14.06.1982.",
+        "anonymized_text": "Hallo, hier ist [name] (nicht die Tennisspielerin). Geb. [dob]."
+    },
+    {
+        "raw_text": "KV-Nr: Y123123123. Bitte Rezept erneuern.",
+        "anonymized_text": "KV-Nr: [patient_id]. Bitte Rezept erneuern."
+    },
+    {
+        "raw_text": "Ich erreiche Dr. Fischer telefonisch nicht.",
+        "anonymized_text": "Ich erreiche [practice] telefonisch nicht."
+    },
+    {
+        "raw_text": "Senden Sie die Unterlagen an max.mustermann@t-online.de.",
+        "anonymized_text": "Senden Sie die Unterlagen an [email]."
+    },
+    {
+        "raw_text": "Ich bin derzeit arbeitslos, war vorher bei BMW in München tätig.",
+        "anonymized_text": "Ich bin derzeit arbeitslos, war vorher bei BMW in München tätig."
+    },
+    {
+        "raw_text": "Facebook-Profil: facebook.com/franz.beckenbauer.fake.",
+        "anonymized_text": "Facebook-Profil: [social]."
+    },
+    {
+        "raw_text": "Adresse: Platz der Republik 1, 11011 Berlin.",
+        "anonymized_text": "Adresse: [address]."
+    },
+    {
+        "raw_text": "Führerschein-Nr. zur Identifikation: D0987654321.",
+        "anonymized_text": "Führerschein-Nr. zur Identifikation: D0987654321."
+    },
+    {
+        "raw_text": "Mein Name ist Olga und ich komme aus Russland, wohne aber jetzt in Leipzig.",
+        "anonymized_text": "Mein Name ist [name] und ich komme aus Russland, wohne aber jetzt in Leipzig."
+    },
+    {
+        "raw_text": "Geburtsdatum: 05.05.1955. Name: Klaus Kleber.",
+        "anonymized_text": "Geburtsdatum: [dob]. Name: [name]."
+    },
+    {
+        "raw_text": "Praxis Dr. Sommer hat geschlossen, kann ich zu Ihnen kommen?",
+        "anonymized_text": "Praxis [practice] hat geschlossen, kann ich zu Ihnen kommen?"
+    },
+    {
+        "raw_text": "Meine Telefonnummer: 089 123456.",
+        "anonymized_text": "Meine Telefonnummer: [tel]."
+    },
+    {
+        "raw_text": "Ich bin Informatiker bei SAP.",
+        "anonymized_text": "Ich bin Informatiker bei SAP."
+    },
+    {
+        "raw_text": "Reisepassnummer ist Z98765432.",
+        "anonymized_text": "Reisepassnummer ist Z98765432."
+    },
+    {
+        "raw_text": "Schicken Sie das bitte an kontakt@firma-gmbh.de.",
+        "anonymized_text": "Schicken Sie das bitte an [email]."
+    },
+    {
+        "raw_text": "Guten Morgen, mein Name ist Tobias. KV-Nummer M456456456.",
+        "anonymized_text": "Guten Morgen, mein Name ist [name]. KV-Nummer [patient_id]."
+    },
+    {
+        "raw_text": "Ich wohne im Studentenwohnheim, Straße des 17. Juni 135, Berlin.",
+        "anonymized_text": "Ich wohne im Studentenwohnheim, [address]."
+    },
+    {
+        "raw_text": "Ausweis ID: PA1234567.",
+        "anonymized_text": "Ausweis ID: PA1234567."
+    },
+    {
+        "raw_text": "Ich heiße Anja und bin am 30. Februar geboren... nein Quatsch, am 28.02.1990.",
+        "anonymized_text": "Ich heiße [name] und bin am 30. Februar geboren... nein Quatsch, am [dob]."
+    },
+    {
+        "raw_text": "Mein Twitter Handle ist @gesundheit_jetzt.",
+        "anonymized_text": "Mein Twitter Handle ist [social]."
+    },
+    {
+        "raw_text": "Ich war vorher in Behandlung im Klinikum Rechts der Isar.",
+        "anonymized_text": "Ich war vorher in Behandlung im [hospital]."
+    },
+    {
+        "raw_text": "Beruf: Dachdecker. Arbeitgeber: Müller Bedachungen.",
+        "anonymized_text": "Beruf: Dachdecker. Arbeitgeber: Müller Bedachungen."
+    },
+    {
+        "raw_text": "Meine Daten: Hans-Peter, Tel: 0170-5555555.",
+        "anonymized_text": "Meine Daten: [name], Tel: [tel]."
+    },
+    {
+        "raw_text": "Ich bin umgezogen nach: Lindenstraße 10, 60311 Frankfurt am Main.",
+        "anonymized_text": "Ich bin umgezogen nach: [address]."
+    },
+    {
+        "raw_text": "Führerschein ist weg, Nummer war glaube ich B123123.",
+        "anonymized_text": "Führerschein ist weg, Nummer war glaube ich B123123."
+    },
+    {
+        "raw_text": "Guten Tag, hier spricht Prof. Dr. Ewald.",
+        "anonymized_text": "Guten Tag, hier spricht [name]."
+    },
+    {
+        "raw_text": "Versichert bei der TK, Nummer T111222333.",
+        "anonymized_text": "Versichert bei der TK, Nummer [patient_id]."
+    },
+    {
+        "raw_text": "Bitte keine Mails mehr an petra88@hotmail.com senden.",
+        "anonymized_text": "Bitte keine Mails mehr an [email] senden."
+    },
+    {
+        "raw_text": "Ich bin am 03.10.1990 in Dresden geboren.",
+        "anonymized_text": "Ich bin am [dob] in Dresden geboren."
+    },
+    {
+        "raw_text": "Firma: Volkswagen AG, Berliner Ring 2, Wolfsburg.",
+        "anonymized_text": "Firma: Volkswagen AG, Berliner Ring 2, Wolfsburg."
+    },
+    {
+        "raw_text": "Mein Name ist Ali Yilmaz, ich habe Rückenschmerzen.",
+        "anonymized_text": "Mein Name ist [name], ich habe Rückenschmerzen."
+    },
+    {
+        "raw_text": "Reisepass Nr. K23456789 abgelaufen.",
+        "anonymized_text": "Reisepass Nr. K23456789 abgelaufen."
+    },
+    {
+        "raw_text": "Ich gehe normalerweise zu Dr. med. Bauer in Stuttgart.",
+        "anonymized_text": "Ich gehe normalerweise zu [practice] in Stuttgart."
+    },
+    {
+        "raw_text": "Meine Adresse ist Dorfstraße 1, 12345 Musterstadt.",
+        "anonymized_text": "Meine Adresse ist [address]."
+    },
+    {
+        "raw_text": "LinkedIN Profil: linkedin.com/in/max-muster.",
+        "anonymized_text": "LinkedIN Profil: [social]."
+    },
+    {
+        "raw_text": "Personalausweisnummer ist L88776655.",
+        "anonymized_text": "Personalausweisnummer ist L88776655."
+    },
+    {
+        "raw_text": "Telefon 0221 / 44 55 66.",
+        "anonymized_text": "Telefon [tel]."
+    },
+    {
+        "raw_text": "Ich arbeite als Bäcker.",
+        "anonymized_text": "Ich arbeite als Bäcker."
+    },
+    {
+        "raw_text": "Hier ist Frau Schäfer. Geburtsdatum 11.11.1965.",
+        "anonymized_text": "Hier ist [name]. Geburtsdatum [dob]."
+    },
+    {
+        "raw_text": "Versichertennummer: X000000001.",
+        "anonymized_text": "Versichertennummer: [patient_id]."
+    },
+    {
+        "raw_text": "Email: info@praxis-schmidt.de.",
+        "anonymized_text": "Email: [email]."
+    },
+    {
+        "raw_text": "Adresse: Kurfürstendamm 100, Berlin.",
+        "anonymized_text": "Adresse: [address]."
+    },
+    {
+        "raw_text": "Mein Name ist Lukas, bin 1995 geboren.",
+        "anonymized_text": "Mein Name ist [name], bin [dob] geboren."
+    },
+    {
+        "raw_text": "Führerscheinnummer C4567890123.",
+        "anonymized_text": "Führerscheinnummer C4567890123."
+    },
+    {
+        "raw_text": "Ich bin Student an der LMU München.",
+        "anonymized_text": "Ich bin Student an der LMU München."
+    },
+    {
+        "raw_text": "Mein Discord Name ist Healer#1234.",
+        "anonymized_text": "Mein Discord Name ist [social]."
+    },
+    {
+        "raw_text": "Arztbrief von Dr. Lang liegt vor.",
+        "anonymized_text": "Arztbrief von [practice] liegt vor."
+    },
+    {
+        "raw_text": "Wohnhaft in der Schillerstraße 9.",
+        "anonymized_text": "Wohnhaft in der [address]."
+    },
+    {
+        "raw_text": "Telefonnummer ist 0151-12312312.",
+        "anonymized_text": "Telefonnummer ist [tel]."
+    },
+    {
+        "raw_text": "Ich heiße Sophie und meine KV-Nummer ist B999888777.",
+        "anonymized_text": "Ich heiße [name] und meine KV-Nummer ist [patient_id]."
+    },
+    {
+        "raw_text": "Reisepass C11223344.",
+        "anonymized_text": "Reisepass C11223344."
+    },
+    {
+        "raw_text": "Firma: Deutsche Post, Bonn.",
+        "anonymized_text": "Firma: Deutsche Post, Bonn."
+    },
+    {
+        "raw_text": "Ich bin am 15. August 1988 geboren.",
+        "anonymized_text": "Ich bin am [dob] geboren."
+    },
+    {
+        "raw_text": "Ausweisnummer: T55443322.",
+        "anonymized_text": "Ausweisnummer: T55443322."
+    },
+    {
+        "raw_text": "Mein Name ist Johannes.",
+        "anonymized_text": "Mein Name ist [name]."
+    },
+    {
+        "raw_text": "Alte Adresse: Breite Straße 1, Köln.",
+        "anonymized_text": "Alte Adresse: [address]."
+    },
+    {
+        "raw_text": "E-Mail: johannes@beispiel.de.",
+        "anonymized_text": "E-Mail: [email]."
+    },
+    {
+        "raw_text": "Mein Hausarzt ist in der Praxis am Markt, Marktplatz 3.",
+        "anonymized_text": "Mein Hausarzt ist in der [practice], [practice]."
+    },
+    {
+        "raw_text": "Ich bin Polizist.",
+        "anonymized_text": "Ich bin Polizist."
+    },
+    {
+        "raw_text": "Handy: +491701234567.",
+        "anonymized_text": "Handy: [tel]."
+    },
+    {
+        "raw_text": "Ich heiße Maria und bin bei der Barmer versichert (Nr: M123456789).",
+        "anonymized_text": "Ich heiße [name] und bin bei der Barmer versichert (Nr: [patient_id])."
+    },
+    {
+        "raw_text": "Besuchen Sie mein Xing Profil: xing.com/profile/Maria_Muster.",
+        "anonymized_text": "Besuchen Sie mein Xing Profil: [social]."
+    },
+    {
+        "raw_text": "Geburtsdatum: 01.01.2001.",
+        "anonymized_text": "Geburtsdatum: [dob]."
+    },
+    {
+        "raw_text": "Führerschein Klasse B, Nummer F123456.",
+        "anonymized_text": "Führerschein Klasse B, Nummer F123456."
+    },
+    {
+        "raw_text": "Ich liege im St. Marien-Krankenhaus.",
+        "anonymized_text": "Ich liege im [hospital]."
+    },
+    {
+        "raw_text": "Adresse: Bergstraße 12, Heidelberg.",
+        "anonymized_text": "Adresse: [address]."
+    },
+    {
+        "raw_text": "Reisepassnummer ist ungültig: P12345.",
+        "anonymized_text": "Reisepassnummer ist ungültig: P12345."
+    }
+]
